@@ -44,6 +44,15 @@ h1, h2, h3 {
     color: var(--highlight-color);
 }
 
+/* Navbar styles */
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
 /* grid visualisation CSS for testing */
 
 /* .container,
